@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d97050a-8d21-48a2-8ce9-7916b72e5d92" name="Changes" comment="" />
+    <list default="true" id="1d97050a-8d21-48a2-8ce9-7916b72e5d92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AsteroidsLibGDX/src/main/java/dk/sdu/mmmi/cbse/entities/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsLibGDX/src/main/java/dk/sdu/mmmi/cbse/entities/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/AsteroidsLibGDX/src/main/java/dk/sdu/mmmi/cbse/entities/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/AsteroidsLibGDX" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645616259027</updated>
       <workItem from="1645616260341" duration="28000" />
+      <workItem from="1645625189121" duration="546000" />
     </task>
     <servers />
   </component>
