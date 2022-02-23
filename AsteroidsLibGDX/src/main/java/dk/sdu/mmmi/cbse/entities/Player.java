@@ -37,7 +37,7 @@ public class Player extends SpaceObject {
         shapey[0] = y + MathUtils.sin(radians) * 8;
 
         shapex[1] = x + MathUtils.cos(radians - 4 * 3.1415f / 5) * 8;
-        shapey[1] = y + MathUtils.sin(radians - 4 * 3.1145f / 5) * 8;
+        shapey[1] = y + MathUtils.sin(radians - 4 * 3.1445f / 5) * 8;
 
         shapex[2] = x + MathUtils.cos(radians + 3.1415f) * 5;
         shapey[2] = y + MathUtils.sin(radians + 3.1415f) * 5;
