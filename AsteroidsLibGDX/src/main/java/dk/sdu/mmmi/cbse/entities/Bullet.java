@@ -10,7 +10,7 @@ public class Bullet extends SpaceObject{
     private float lifeTimer;
 
     private boolean remove;
-    private boolean isEnemy;
+    private boolean isEnemy; 
 
     public Bullet(float x, float y, float radians, boolean enemy) {
 
